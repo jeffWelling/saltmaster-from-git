@@ -1,4 +1,3 @@
 master:
   '*':
     - all
-    - match: pcre
